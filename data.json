@@ -1,8 +1,8 @@
 {
-    "hightech": [
+    "produits": [
         {
             "id": 1,
-            "name": "",
+            "name": "ipad",
             "price": 160,
             "release_date": "",
             "colors": "",
@@ -13,22 +13,110 @@
             "img_2": "assets/img/tablette/",
             "img_3": "assets/img/tablette/",
             "available": true,
-            "sizes": ""
-        }
-    ],
-    "category": [
-        {
-            "id": 0,
-            "name": "Appareil photo"
-        },
-        {
-            "id": 1,
-            "name": "Casque audio"
+            "sizes": "",
+            "categories": 1
         },
         {
             "id": 2,
-            "name": "Téléphone"
+            "name": "galaxy tab",
+            "price": 160,
+            "release_date": "",
+            "colors": "",
+            "delivery_time": 5,
+            "delivery_price": 6,
+            "reduction": 0,
+            "img_1": "assets/img/tablette/",
+            "img_2": "assets/img/tablette/",
+            "img_3": "assets/img/tablette/",
+            "available": true,
+            "sizes": "",
+            "categories": 1
+        },
+        {
+            "id": 3,
+            "name": "xiaomi Redmi Note 11",
+            "price": 160,
+            "release_date": "",
+            "colors": "",
+            "delivery_time": 5,
+            "delivery_price": 6,
+            "reduction": 0,
+            "img_1": "assets/img/tablette/",
+            "img_2": "assets/img/tablette/",
+            "img_3": "assets/img/tablette/",
+            "available": true,
+            "sizes": "",
+            "categories": [1]
+        },
+        {
+            "id": 4,
+            "name": "Google Pixel 6a",
+            "price": 160,
+            "release_date": "",
+            "colors": "",
+            "delivery_time": 5,
+            "delivery_price": 6,
+            "reduction": 0,
+            "img_1": "assets/img/tablette/",
+            "img_2": "assets/img/tablette/",
+            "img_3": "assets/img/tablette/",
+            "available": true,
+            "sizes": "",
+            "categories": [1]
+        },
+        {
+            "id": 5,
+            "name": "Xiaomi 13 pro",
+            "price": 160,
+            "release_date": "",
+            "colors": "",
+            "delivery_time": 5,
+            "delivery_price": 6,
+            "reduction": 0,
+            "img_1": "assets/img/tablette/",
+            "img_2": "assets/img/tablette/",
+            "img_3": "assets/img/tablette/",
+            "available": true,
+            "sizes": "",
+            "categories": [1]
         }
+
+    ],
+
+
+
+
+
+     "categories": [
+        {   
+            "id":1,
+            "nom":"Smartphones et tablettes"
+        },
+        {
+            "id": 2,
+            "nom": "Accessoires pour appareils électroniques"
+        },
+        {
+            "id": 3,
+            "name": "Ordinateurs et périphériques"
+        },
+        {
+            "id":4,
+            "nom":"Equipement de jeux vidéo"
+        },
+        {
+            "id":5,
+            "nom":"Produits de domotique"
+        }
+
     ]
+
+
+
+
+
+
+
+
     
 }
